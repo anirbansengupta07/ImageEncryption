@@ -41,10 +41,10 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/anirbansengupta07/Steganography.git"
+		"url": "git+https://github.com/anirbansengupta07/ImageEncryption.git"
 	},
 	"bugs": {
-		"url": "https://github.com/anirbansengupta07/Steganography/issues"
+		"url": "https://github.com/anirbansengupta07/ImageEncryption/issues"
 	},
-	"homepage": "https://github.com/anirbansengupta07/Steganography#readme"
+	"homepage": "https://github.com/anirbansengupta07/ImageEncryption#readme"
 }
