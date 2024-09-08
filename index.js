@@ -28,6 +28,6 @@ const { clear } = flags;
 
 	console.log(
 		chalk.bgMagenta(` Give it a star on github: `) +
-			chalk.bold(` https://github.com/anirbansengupta07/Steganography`)
+			chalk.bold(` https://github.com/anirbansengupta07/ImageEncryption`)
 	);
 })();
